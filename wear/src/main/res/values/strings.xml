@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Finans Saati</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="ehir_ad">Şehir Adı</string>
+    <string name="doviz_takip_url">https://apptestgateway.turkiyefinans.com.tr/Dev-C49367/TurkiyeFinans.ApiManagement/IExchangeRateRestService/GetExchangeRateForCustomerXml?serviceUserName=apiManagement&amp;password=UE5KP3JM&amp;currencyType=eur&amp;customerId=1</string>
+
+    <string-array name="sehir_array">
+
+        <item>Hesabım</item>
+        <item>Finans Portalı</item>
+        <item>Şube ve ATM</item>
+
+    </string-array>
+
+    <string-array name="icon_array">
+
+        <item>@drawable/account</item>
+        <item>@drawable/finance</item>
+        <item>@drawable/branch</item>
+
+    </string-array>
+    <string-array name="kur">
+        <item>Türkiye Finans Döviz</item>
+        <item>Serbest Piyasa Kurları</item>
+        <item>TCMB kurları</item>
+        <item>Uluslararası Parite</item>
+
+    </string-array>
+
+    <string-array name="borsa">
+        <item>Yatırım Fonları</item>
+        <item>İstanbul Altın Borsası</item>
+        <item>BIST Endex</item>
+        <item>Uluslararası Endex</item>
+
+    </string-array>
+    <string-array name="karpayi">
+
+
+    </string-array>
+    <string-array name="hissesenedi">
+        <item>En Çok Artan</item>
+        <item>En Çok Azalan</item>
+        <item>En Çok İşlem Gören</item>
+        <item>Hisse Senedi</item>
+
+    </string-array>
+    <string name="title_activity_tfkbdoviz">Döviz Kurları</string>
+</resources>
